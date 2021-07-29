@@ -16,8 +16,17 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 </p>
 
   ---
+<h1 align='center'> Practice Environment  </h1>
 
-<h1 align='center'> Latest Blog Posts 📕 </h1>
+<!-- BLOG-POST-LIST:START -->
+- [TryHackMe](https://tryhackme.com/p/ahrixia)
+- [HackTheBox](https://www.hackthebox.eu/home/users/profile/213035)
+- [PwnTillDawn](https://online.pwntilldawn.com/Achievements/2048)
+<!-- BLOG-POST-LIST:END -->
+
+  ---
+
+<h1 align='center'> Latest Blog Posts </h1>
 
 <!-- BLOG-POST-LIST:START -->
 - [Vega PwnTillDawn Walkthrough](https://astikrawat.medium.com/vega-pwntilldawn-walkthrough-e1fd01cbc473)
