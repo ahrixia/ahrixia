@@ -34,8 +34,8 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 <h2 align='center'> CONTACT ME </h2>
 
 <p align='center'>
-|| <a href = "mailto: astikrawat@outlook.com"> Email </a> |
-  <a href="https://www.linkedin.com/in/astikrawat/"> LinkedIn </a> |
-  <a href="https://twitter.com/ahrixia"> Twitter </a> |
-  <a href="https://astikrawat.medium.com"> Medium </a> ||
+|| <a href = "mailto: astikrawat@outlook.com"> Email</a> |
+  <a href="https://www.linkedin.com/in/astikrawat/"> LinkedIn</a> |
+  <a href="https://twitter.com/ahrixia"> Twitter</a> |
+  <a href="https://astikrawat.medium.com"> Medium</a> ||
 </p>
