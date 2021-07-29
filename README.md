@@ -10,7 +10,7 @@ I am currently working on freelance projects, also working towards OSCP. I'm pas
 I hold certifications such as Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
 
   ---
-<h2 align='center'> Practice Profile </h2>
+<h2 align='center'> Practice Profiles </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe](https://tryhackme.com/p/ahrixia) 
