@@ -1,9 +1,8 @@
-<h1 align='center'> Astik Rawat </h1>
+<h1 align='center'> Astik Rawat - AHRIXIA </h1>
 
 ```bash
-┌─[root@github]─[~]
-└──╼ # whoami
-ahrixia
+# whoami
+Astik Rawat
 ```
 
 <p align='center'>
