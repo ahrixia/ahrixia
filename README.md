@@ -1,4 +1,10 @@
-<h1 align='center'> Astik Rawat - AHRIXIA  </h1>
+<h1 align='center'> Astik Rawat </h1>
+
+```bash
+┌─[root@github]─[~]
+└──╼ # whoami
+ahrixia
+```
 
 <p align='center'>
   <b>20 year old programmer</b>
@@ -10,15 +16,7 @@ I am currently working on freelance projects, also working towards OSCP. I'm pas
 I hold certifications such as Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
 
   ---
-<h2 align='center'> Practice Profiles </h2>
 
-<!-- BLOG-POST-LIST:START -->
-- [TryHackMe](https://tryhackme.com/p/ahrixia) 
-- [HackTheBox](https://www.hackthebox.eu/home/users/profile/213035)
-- [PwnTillDawn](https://online.pwntilldawn.com/Achievements/2048)
-<!-- BLOG-POST-LIST:END -->
-
-  ---
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
@@ -30,7 +28,15 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 
 <!--Blog Post Workflow repo : https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- Thanks to Gautam for blog workflow -->
----
+  ------
+
+<h2 align='center'> Practice Profiles </h2>
+
+<p align='center'>
+||<a href = "https://www.tryhackme.com/p/ahrixia"> TryHackMe</a> |
+<a href = "https://www.hackthebox.eu/home/users/profile/213035"> HackTheBox</a> |
+<a href = "https://www.online.pwntilldawn.com/Achievements/2048"> PwnTillDawn</a> ||
+
 <h2 align='center'> CONTACT ME </h2>
 
 <p align='center'>
