@@ -1,4 +1,4 @@
-<h1 align='center'> Astik Rawat - ahrixia </h1>
+<h1 align='center'> Astik Rawat - AHRIXIA </h1>
 
 <p align='center'>
   <b>20 year old programmer</b>
@@ -16,7 +16,7 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 </p>
 
   ---
-<h1 align='center'> Practice Environment </h1>
+<h1 align='center'> Practice Profile </h1>
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe](https://tryhackme.com/p/ahrixia) 
