@@ -1,4 +1,4 @@
-<h1 align='center'> Astik Rawat - AHRIXIA </h1>
+<h1 align='center'> Astik Rawat - AHRIXIA  </h1>
 
 <p align='center'>
   <b>20 year old programmer</b>
@@ -9,14 +9,8 @@
 I am currently working on freelance projects, also working towards OSCP. I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
 I hold certifications such as Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/astikrawat/"> LinkedIn </a></br>
-  <a href="https://twitter.com/ahrixia"> Twitter </a></br>
-  <a href="https://astikrawat.medium.com"> Medium </a></br>
-</p>
-
   ---
-<h1 align='center'> Practice Profile </h1>
+<h2 align='center'> Practice Profile </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe](https://tryhackme.com/p/ahrixia) 
@@ -25,7 +19,7 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 <!-- BLOG-POST-LIST:END -->
 
   ---
-<h1 align='center'> Latest Blog Posts </h1>
+<h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Vega PwnTillDawn Walkthrough](https://astikrawat.medium.com/vega-pwntilldawn-walkthrough-e1fd01cbc473)
@@ -36,3 +30,12 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 
 <!--Blog Post Workflow repo : https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- Thanks to Gautam for blog workflow -->
+---
+<h2 align='center'> CONTACT ME </h2>
+
+<p align='center'>
+  <a href = "mailto: astikrawat@outlook.com"> Send Email </a></br>
+  <a href="https://www.linkedin.com/in/astikrawat/"> LinkedIn </a></br>
+  <a href="https://twitter.com/ahrixia"> Twitter </a></br>
+  <a href="https://astikrawat.medium.com"> Medium </a></br>
+</p>
