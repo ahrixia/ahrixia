@@ -4,7 +4,7 @@ Astik Rawat
 ```
 
 <p align='center'>
-  <b>20 year old programmer</b>
+  <b>20 years old </b>
   <b>Cyber Security Researcher / Pentester </b>💻 </br>
   <b>Graduate</b> from <b> Edith Cowan University, in Cyber Security</b>. </br>
 </p>
