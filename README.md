@@ -1,5 +1,3 @@
-<h1 align='center'> Astik Rawat - ahrixia </h1>
-
 ```bash
 # whoami
 Astik Rawat
