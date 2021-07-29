@@ -20,7 +20,9 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe](https://tryhackme.com/p/ahrixia) <img src="https://tryhackme-badges.s3.amazonaws.com/ahrixia.png" alt="TryHackMe">
+
 - [HackTheBox](https://www.hackthebox.eu/home/users/profile/213035) <img src="http://www.hackthebox.eu/badge/image/213035" alt="Hack The Box">
+
 - [PwnTillDawn](https://online.pwntilldawn.com/Achievements/2048)
 <!-- BLOG-POST-LIST:END -->
 
