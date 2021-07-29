@@ -37,5 +37,3 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 
 <!--Blog Post Workflow repo : https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- Thanks to Gautam for blog workflow -->
-
-
