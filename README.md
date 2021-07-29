@@ -1,4 +1,4 @@
-<h1 align='center'> Astik Rawat - AHRIXIA </h1>
+<h1 align='center'> Astik Rawat - ahrixia </h1>
 
 ```bash
 # whoami
