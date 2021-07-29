@@ -16,7 +16,7 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 </p>
 
   ---
-<h1 align='center'> Practice Environment  </h1>
+<h1 align='center'> Practice Environment </h1>
 
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe](https://tryhackme.com/p/ahrixia) 
@@ -25,7 +25,6 @@ I hold certifications such as Junior Penetration Tester, Certified Ethical Hacke
 <!-- BLOG-POST-LIST:END -->
 
   ---
-
 <h1 align='center'> Latest Blog Posts </h1>
 
 <!-- BLOG-POST-LIST:START -->
