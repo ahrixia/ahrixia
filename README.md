@@ -1,13 +1,13 @@
 ```bash
-┌─[user@kali]─[/root]
+┌─[user@ubuntu]─[/]
 └──╼ # whoami
 Astik Rawat
-```
 
-<p align='center'>
-  <b>21 year old Cyber Security Researcher / Pentester </b>💻 </br>
-  <b>Graduate</b> from <b> Edith Cowan University, in Cyber Security</b>. </br>
-</p>
+┌─[user@ubuntu]─[/]
+└──╼ # hostname
+21 year old Cyber Security Researcher / Pentester 💻
+Graduate from Edith Cowan University, Cyber Security.
+```
 
 I am currently working on freelance projects, also working towards OSCP. I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
 I hold certifications such as Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
