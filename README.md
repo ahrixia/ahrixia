@@ -1,5 +1,6 @@
 ```bash
-# whoami
+┌─[user@kali]─[/root]
+└──╼ # whoami
 Astik Rawat
 ```
 
