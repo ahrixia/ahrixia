@@ -5,7 +5,7 @@ Astik Rawat
 
 ┌─[user@ubuntu]─[/]
 └──╼ # hostname
-21 year old Cyber Security Researcher / Pentester 💻
+21 year old Cyber Security Consultant / Pentester 💻
 Graduate from Edith Cowan University, Cyber Security.
 ```
 
