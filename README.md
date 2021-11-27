@@ -6,7 +6,6 @@ Astik Rawat
 ┌─[user@ubuntu]─[/]
 └──╼ # hostname
 21 year old Cyber Security Consultant / Pentester 💻
-Graduate from Edith Cowan University, Cyber Security.
 ```
 
 I am currently working on freelance projects, also working towards OSCP. I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
