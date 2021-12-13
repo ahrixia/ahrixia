@@ -8,7 +8,7 @@ Astik Rawat
 21 year old Cyber Security Consultant / Pentester 💻
 ```
 
-I am currently working on freelance projects, also working towards OSCP. I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
+I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
 I hold certifications such as Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
 
   ---
