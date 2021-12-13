@@ -9,7 +9,7 @@ Astik Rawat
 ```
 
 I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
-I hold certifications such as OSCP, CRT, CPSA, Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
+I hold certifications such as OFFENSICE SECURITY CERTIFIED PROFESSIONAL, CREST Registered Penetration Tester, CREST Practitioner Security Analyst, Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
 
   ---
 
