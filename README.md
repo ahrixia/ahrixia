@@ -9,13 +9,14 @@ Astik Rawat
 ```
 
 I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
-I hold certifications such as Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
+I hold certifications such as OSCP, CRT, CPSA, Junior Penetration Tester, Certified Ethical Hacker - Master and Network+ .
 
   ---
 
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Passed OSCP with 100% in 15 hours](https://astikrawat.medium.com/passed-oscp-with-100-in-15-hours-91d19ef766aa)
 - [Vega PwnTillDawn Walkthrough](https://astikrawat.medium.com/vega-pwntilldawn-walkthrough-e1fd01cbc473)
 - [ElMariachi-PC ~ PwnTillDawn Walkthrough](https://astikrawat.medium.com/elmariachi-pc-pwntilldawn-walkthrough-7c8468bd836a)
 - [My Journey for eJPT-eLearnSecurity](https://astikrawat.medium.com/my-journey-for-ejpt-elearnsecurity-79ef105959f0)
