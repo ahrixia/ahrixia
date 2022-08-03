@@ -16,6 +16,9 @@ I hold certifications such as Offensive Security Certified Professional(OSCP), C
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [OSWP: My Review](https://astikrawat.medium.com/oswp-my-review-1154beafe8d2)
+- [Rusty Walkthrough — PWNX](https://astikrawat.medium.com/rusty-walkthrough-pwnx-6b6b049a1528)
+- [My Review: Burp Suite Certified Practitioner!](https://astikrawat.medium.com/my-review-burp-suite-certified-practitioner-8269bb8e382f)
 - [Passed OSCP with 100% in 15 hours](https://astikrawat.medium.com/passed-oscp-with-100-in-15-hours-91d19ef766aa)
 - [Vega PwnTillDawn Walkthrough](https://astikrawat.medium.com/vega-pwntilldawn-walkthrough-e1fd01cbc473)
 - [ElMariachi-PC ~ PwnTillDawn Walkthrough](https://astikrawat.medium.com/elmariachi-pc-pwntilldawn-walkthrough-7c8468bd836a)
