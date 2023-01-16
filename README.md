@@ -1,9 +1,9 @@
 ```bash
-┌─[user@ubuntu]─[/]
+┌─[ahrixia@ubuntu]─[/]
 └──╼ # whoami
 Astik Rawat
 
-┌─[user@ubuntu]─[/]
+┌─[ahrixia@ubuntu]─[/]
 └──╼ # hostname
 22 year old Cyber Security Consultant / Pentester 💻
 ```
