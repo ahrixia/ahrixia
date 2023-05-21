@@ -9,7 +9,7 @@ Astik Rawat
 ```
 
 I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
-I hold certifications few certifications on side to make progress towards my mail goal.
+I hold few certifications on side to make progress towards my mail goal. On May 2023, I got my first [CVE-2023-30256](https://github.com/ahrixia/CVE-2023-30256).
 
   ---
 
