@@ -9,13 +9,14 @@ Astik Rawat
 ```
 
 I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
-I hold certifications such as Offensive Security Web Expert (OSWE), Offensive Security Certified Professional(OSCP), CREST Registered Penetration Tester(CRT), Offensive Security Wireless Attacks (OSWP), Burp Suite Certified Practitioner (BSCP), CREST Practitioner Security Analyst(CPSA), Junior Penetration Tester(eJPT), Certified Ethical Hacker(CEH) - Master and COMPTIA Network+.
+I hold certifications few certifications on side to make progress towards my mail goal.
 
   ---
 
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [eMAPT 2023: My Journey and Review](https://astikrawat.medium.com/emapt-2023-my-journey-and-review-f4b501d09f61)
 - [OSWE : My Journey & Review](https://astikrawat.medium.com/oswe-2022-my-journey-review-df9e34e89629)
 - [OSWP: My Review](https://astikrawat.medium.com/oswp-my-review-1154beafe8d2)
 - [Rusty Walkthrough — PWNX](https://astikrawat.medium.com/rusty-walkthrough-pwnx-6b6b049a1528)
