@@ -16,6 +16,9 @@ I hold few certifications on side to make progress towards my main goal.
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [PJPT 2023: Begin your Career](https://astikrawat.medium.com/pjpt-2023-begin-your-career-b0b3a6f323af)
+- [PNPT 2023: My Honest Humbling Review](https://astikrawat.medium.com/pnpt-2023-my-honest-humbling-review-24786b34cc77)
+- [My First CVE: CVE-2023–30256](https://astikrawat.medium.com/my-first-cve-cve-2023-30256-63bc0de6c9f3)
 - [eMAPT 2023: My Journey and Review](https://astikrawat.medium.com/emapt-2023-my-journey-and-review-f4b501d09f61)
 - [OSWE : My Journey & Review](https://astikrawat.medium.com/oswe-2022-my-journey-review-df9e34e89629)
 - [OSWP: My Review](https://astikrawat.medium.com/oswp-my-review-1154beafe8d2)
