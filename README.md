@@ -5,7 +5,7 @@ Astik Rawat
 
 ┌─[ahrixia@ubuntu]─[/]
 └──╼ # hostname
-23 year old Cyber Security Consultant / Pentester 💻
+24 year old Cyber Security Consultant / Pentester 💻
 ```
 
 I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
