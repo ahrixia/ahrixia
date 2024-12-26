@@ -16,6 +16,8 @@ I hold few certifications on side to make progress towards my main goal.
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [OSCP+: Step-by-Step Guide to Succes](https://astikrawat.medium.com/oscp-step-by-step-guide-to-success-9ff3d189dbb2)
+- [Passed the OSCC Exam on My First Go — You Can Too!](https://astikrawat.medium.com/passed-the-oscc-exam-on-my-first-go-you-can-too-b2898047d8b6)
 - [Exam Review: Certified Network Security Practitioner (CNSP)](https://astikrawat.medium.com/exam-review-certified-network-security-practitioner-cnsp-dbb6740a836f)
 - [OSEP 2024: My Review and Experience](https://astikrawat.medium.com/osep-2024-my-review-and-experience-059b753645f4)
 - [CRTO 2024: Steps to Red Teaming](https://astikrawat.medium.com/crto-2024-steps-to-red-teaming-4f195945d694)
