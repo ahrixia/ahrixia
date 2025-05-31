@@ -16,6 +16,8 @@ I hold few certifications on side to make progress towards my main goal.
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [SINCON SG 2025: CTF Walkthrough of Dragon Badge by hackerware.io](https://astikrawat.medium.com/sincon-sg-2025-ctf-walkthrough-of-dragon-badge-by-hackerware-io-1efb31322f10)
+- [The Kali Linux Certified Professional (KLCP) : My Review](https://astikrawat.medium.com/the-kali-linux-certified-professional-klcp-my-review-a72fb918c0f7)
 - [OSCP+: Step-by-Step Guide to Succes](https://astikrawat.medium.com/oscp-step-by-step-guide-to-success-9ff3d189dbb2)
 - [Passed the OSCC Exam on My First Go — You Can Too!](https://astikrawat.medium.com/passed-the-oscc-exam-on-my-first-go-you-can-too-b2898047d8b6)
 - [Exam Review: Certified Network Security Practitioner (CNSP)](https://astikrawat.medium.com/exam-review-certified-network-security-practitioner-cnsp-dbb6740a836f)
