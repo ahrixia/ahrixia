@@ -5,7 +5,7 @@ Astik Rawat
 
 ┌─[ahrixia@ubuntu]─[/]
 └──╼ # hostname
-24 year old Cyber Security Consultant / Pentester 💻
+25 year old Cyber Security Consultant / Pentester 💻
 ```
 
 I'm passionate about cybersecurity, CTFs and learning. You can find my writings on [Medium](https://astikrawat.medium.com/). 
@@ -16,6 +16,7 @@ I hold few certifications on side to make progress towards my main goal.
 <h2 align='center'> Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Course and Exam Review: CAISP (AI Security and LLM) by Practical DevSecOps(https://medium.com/@astikrawat/course-and-exam-review-caisp-ai-security-and-llm-by-practical-devsecops-4773a20fd2b6)]
 - [SINCON SG 2025: CTF Walkthrough of Dragon Badge by hackerware.io](https://astikrawat.medium.com/sincon-sg-2025-ctf-walkthrough-of-dragon-badge-by-hackerware-io-1efb31322f10)
 - [The Kali Linux Certified Professional (KLCP) : My Review](https://astikrawat.medium.com/the-kali-linux-certified-professional-klcp-my-review-a72fb918c0f7)
 - [OSCP+: Step-by-Step Guide to Succes](https://astikrawat.medium.com/oscp-step-by-step-guide-to-success-9ff3d189dbb2)
